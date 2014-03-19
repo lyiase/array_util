@@ -1,0 +1,76 @@
+<?php
+class ArrayObjectEx extends ArrayObject implements IteratorAggregate , ArrayAccess , Serializable , Countable {
+	
+	// TODO This is skeleton
+	public function assoc(){ }
+	public function at(){ }
+	public function choice(){ }
+	public function clear(){ }
+	public function collect(){ }
+	public function combination(){ }
+	public function compact(){ }
+	public function concat(){ }
+	public function count(){ }
+	public function cycle(){ }
+	public function delete(){ }
+	public function delete_at(){ }
+	public function delete_if(){ }
+	public function drop(){ }
+	public function drop_while(){ }
+	public function each(){ }
+	public function each_index(){ }
+	public function is_empty(){ }
+	public function is_eql(){ }
+	public function fetch(){ }
+	public function fill(){ }
+	public function find_index(){ }
+	public function first(){ }
+	public function flatten(){ }
+	public function is_frozen(){ }
+	public function hash(){ }
+	public function is_include(){ }
+	public function index(){ }
+	public function indexes(){ }
+	public function insert(){ }
+	public function inspect(){ }
+	public function join(){ }
+	public function keep_if(){ }
+	public function last(){ }
+	public function length(){ }
+	public function map(){ }
+	public function nitems(){ }
+	public function pack(){ }
+	public function permutation(){ }
+	public function pop(){ }
+	public function product(){ }
+	public function push(){ }
+	public function rassoc(){ }
+	public function reject(){ }
+	public function reject(){ }
+	public function repeated_combination(){ }
+	public function repeated_permutation(){ }
+	public function replace(){ }
+	public function reverse(){ }
+	public function reverse_each(){ }
+	public function rindex(){ }
+	public function rotate(){ }
+	public function sample(){ }
+	public function select(){ }
+	public function shift(){ }
+	public function shuffle(){ }
+	public function size(){ }
+	public function slice(){ }
+	public function sort(){ }
+	public function sort_by(){ }
+	public function take(){ }
+	public function take_while(){ }
+	public function to_a(){ }
+	public function to_ary(){ }
+	public function to_s(){ }
+	public function transpose(){ }
+	public function uniq(){ }
+	public function unshift(){ }
+	public function values_at(){ }
+	public function zip(){ }
+	
+}  
